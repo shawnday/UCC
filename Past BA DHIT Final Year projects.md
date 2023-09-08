@@ -1,0 +1,150 @@
+# Past BA DHIT Final Year projects
+There are the various topics that have informed final year projects in the Digital Humanities and Information Technology Programme (CK118) at University College Cork from the inception of the programme.
+
+## 2016-2017
+1. Personal Learning Environments: How to assess and validate self-taught subjects
+2. SociaLive will provide an immersive medium for local bands to expose themselves to a wider audience
+3. Interactive Mapping of the Irish Revolution
+4. Receipt is a smartphone app offering a paperless receipt alternative that can be used universally with participating companies
+5. An Investigation & Visualisation of Social Media Trends in correlation with the Immigration Crisis
+6. Mass Data analysis with a focus on finding a story from Data
+7. Map keywords used on social media posts, such as micro blogs (Twitter) as well as image sharing sites (Instagram) to see who is talking about where.
+8. A website to allow people who are interested in going on a J1 to USA and Canada to gather information and learn what works and what doesn’t before they go
+9. A digital tool for collaboration between students studying languages to come together to give the most accurate translations possible.
+10. CrowdDoc is a platform available both on mobile and desktop, where users come together to create documentaries / movies about a topic idea or story.
+11. Create a publicly accessible 3D printer operated by application where printing schematics are purchased.
+## 2017-2018
+1. Using rhetoric in persuasive games and spectrometric methods to present enhanced archaeological data
+2. An interactive experience of the life of Tom Barry
+3. Human interaction information architecture for an accounts payable department
+4. What our newspapers can tell us about Irish peoples’ attitude towards climate change
+5. How social media use affects the mental health and body image of young females in the digital age
+6. What makes a great video game, and how do developers create interesting and engaging experiences for their players?
+7. Personalised gamification for educational training
+8. Human-centred education in virtual reality
+9. Using advanced technologies to enhance learning: An economic study using the Dark Net’s ‘Silk Road’
+## 2018-19
+1. Has the implementation of GDPR changed how different generations view their digital identity?
+2. A UX Considerations of Cognitive Biases
+3. The visualisation of schedules using advanced programmatic techniques
+4. St Colmans BNS Macroom Archive
+5. Preventing farm deaths using technology.
+6. How could artificial intelligence contribute and improve assistive technology for people with disabilities?
+7. Changes in education brought about by the use of and dependence on digital tools.
+8. Women and The Gothic in American Horror Story
+9. Website glossary design for cooperative government agencies
+10. Exploring the historical connection between Ireland & Iberia, and establishing an interactive collection around it
+11. Children and screen time
+12. How Spatial Data can be used to decipher the make-up of virtual worlds
+13. Consent in the Digital Space
+14. Possible Technological advancements that are needed for Irish farmers to Cope with Climate change
+15. Can blockchain technology help prevent a hard border between Ireland and Northern Ireland
+16. Designing a mobile communication-learning application for high-functioning autistic children.
+17. How Can We Create Toolkits for Teachers to Create Interactive Games for Primary School Children?
+18. Does music changes humans’ mood
+19. The loss of our historical knowledge and culture due to the inability of our museums keeping pace with technology.
+20. What spaces are of significance to the lives of children with autism
+21. Participation of Women and Young Girls in STEM- A Mixed Method Approach
+22. Internal Communication mobile app. and the psychological effects of having a good user experience.
+23. What are the effects of utilising spatial optimisation & How best can we leverage human data to reduce energy waste
+24. Surveying attitudes to sport in the context of social media use across the generations.
+25. 3D Data Visualisation with AR
+26. Can Chromesthesia be evaluated on a spectrum and if so can we train our brains in cross sensory development?
+27. A symptom management tool for cancer patients undergoing treatment.
+28. Mapping Shakespeare
+29. Educational Transcription Learning Game
+30. How colour and/or sound affects our ability to retain information
+31. The Effects of Music on Students Academic Learnings
+32. Digital Mapping – Locations of the Homeless in Cork City Centre and the Utilisation of Public Spaces
+33. The influence of human factors in software testing and QA
+## 2019-20
+1. Virtual Reality Therapy Dog
+2. Mapping Cultural Desertification
+3. Using computer aided textual analysis and communication models to investigate both the spread of ideologies and actions
+4. Research how interactive media and video gaming elements can engage and involve children and create a more memorable learning experience.
+5. How we consciously and sub-consciously browse the web and apps.
+6. Technology, weather and agriculture.
+7. How Internet of things connects the world
+8. Education Through Interactive Multimedia Experiences With A Focus On Cybersecurity
+9. The True Cost of the Internet: why user’s personal data is so valuable.
+10. How to improve the education and lives of people struggling with Autism in a Digital Age
+11. An Investigation into how Cumann na mBan socially impacted the Irish Revolution 1914-23
+12. Project on Misinformation/Fake News
+13. Using blockchain to give individuals more control over their personal data
+14. Analysing the effects and developments of technology in various sports.
+15. How the push from society has encouraged sustainable brands.
+16. The cultural impacts of the dissolution of Catholicism in modern Irish society.
+17. How smartwatches could be a useful device in terms of healthcare monitoring.
+18. Is there is any correlation between knowledge retention and interactivity in eLearning?
+19. Mapping Cork’s Specialty Coffee
+20. The rise of e-commerce and its effect on local physical retailing.
+21. An Immersive & Interactive Cinema Experience
+22. Reviving Languages with Technology.
+23. Examining the impact of cybersecurity laws on society and predicting future trends and progress.
+24. An Interactive Map of Theatrical Media Consumption.
+25. The evolution of cellular data and the security related issues.
+26. The philosophy of language, specifically the language we use online/digitally.
+27. How To Make Players Forget They’re Playing a Video Game.
+28. Immersive VR_AR_MR experience of Cork.
+29. Computer Assisted Instructions and a new way of learning using computers and software applications to teach.
+30. Investigation into user interface/ operating systems for people with cognitive/learning disabilities.
+31. An analysis of social media reach and measure how far information travels online.
+32. Cork as a SMART City
+33. The Effect of Genres of Video Games on Test-Taking Performance
+34. Machine Learning: the Ethics behind driverless cars
+35. The social implications of eating in company of technology.
+## 2020-21
+1. The Growth and Accessibility of E-Commerce
+2. How User Experience Design Impacts Website Functionality
+3. What are the ethical challenges of open source technology and practices today and how do they impact GDPR?
+4. The lived experience of immigration into Ireland
+5. Does modern technology aid development of non-verbal autistic children?
+6. Fascism in The New Age
+7. The Correlation BetweenFilters and Body Image
+8. Negative Health Implications Associated with a Poor Transition To Plant-Base Diet
+9. How to intelligently navigate the internet – deciphering authenticity from falseness
+10. DHIT and Cyber Crime
+11. An Exploration of the Phishing World
+12. How UI can resurrect statistics/usage for once a task that has been deemed as tedious?
+13. An economic study of the effects of AI technology in football
+14. The impact and future of publications in a more digitally focused world
+15. How has the modern dissemination of information in the world affected how we interpret news today?
+16. Has technology made the game of Soccer more enjoyable for fans?
+17. The Effects of Social Media on the Health and Fitness Industry
+18. The expectations of social media platforms
+19. Rectifying histories lack of diversity through technology: An investigation into unsung female heroes of the 20th Century
+20. Computational Aesthetics, Phenomenology and the SimulationHypothesis
+21. How cybersecurity threats and attacks along with leaving a digital footprint can affect the common and commercial user
+22. Gaming in the Digital Age and the Effects of a Global Pandemic
+23. Exploring the end of end to end encryption
+24. How pop culture defines cities and infrastructure
+25. An Interactive Map exploring the History of Cork City c.1585-1600
+26. To Explore Digitised Photographic Archives Using Machine Learning Tools
+27. The Role of Online Communication (or social media) in Climate Change
+28. Can religious organisations survive on other planets?
+29. Investigating the Capabilities of Modern AI to Recreate Human Traits
+30. The potential negative and positive effects that the advancement of artificial intelligence
+31. Insights into academic texts through text and data analytics
+32. An Interactive Timeline and Digital Archive of The English Market
+33. Using simulations to better understand the propagation of forest fires
+34. Digital Systems for Improved Policymaking & Participatory Civic Engagement in Ireland
+## 2022-23
+1. Examining User Online Data Privacy
+2. Data in Cities
+3. The Digital Hearth Storytelling (TDHS)
+4. What Impact Have Social Media Influencers Had On The Fashion Industry?
+5. How the Impact of Technological Advancements in Music Creation Has Affected Popular Culture
+6. Developing a Knowledge Framework to Promote the Detection of Phishing at the Human Linguistic Level
+7. Investigating How GIS Tools Can Be Used to Aid Wheelchair Accessibility in Cork City
+8. The Effects of Online Gambling on Society
+9. Equality in Sport
+10. How Social Media Has Become a Platform to Propagate Fake News
+11. How the Modernisation of Technology Over Recent Years Has Impacted Sport
+12. Digital Platform to Preserve and Digitise Irish Musical Heritage for Future Generational Enthusiasts
+13. All Kinds of Paranormal
+14. Can Localisation Impact the Preservation and Upkeep of Immigrant/Minority Languages in Ireland?
+15. IOU Digital Ledger: Developing a Mobile Application to Create and Manage a Digital Online Ledger
+16. An Experiment With Text-based Games as Interactive Media
+17. Utilising Microsoft Power BI and Microsoft Excel to Graph and Analyse Statistics From Past Premier League Seasons
+18. Methods for Students to Improve Data Literacy & Safety in Online Spaces
+19. Chatbots Substituting Human Interactions
