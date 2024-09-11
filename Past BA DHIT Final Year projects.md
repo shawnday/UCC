@@ -148,3 +148,33 @@ There are the various topics that have informed final year projects in the Digit
 17. Utilising Microsoft Power BI and Microsoft Excel to Graph and Analyse Statistics From Past Premier League Seasons
 18. Methods for Students to Improve Data Literacy & Safety in Online Spaces
 19. Chatbots Substituting Human Interactions
+## 2023-24
+1. A Digital Platform promoting online safety and date privacy for users of all ages
+2. Analogue Accessibility in a Digital Society
+3. How can technology be used to collate and disseminate local knowledge to enhance tourism in Kinsale
+4. How crowdsourcing can map out cleaner routes for dog owners
+5. Donoughmore: Tracing Our Past, Shaping Our Future
+6. How can AI and thermal imagery be used in the management & prevention of Hospital-Acquired Pressure Injuries?
+7. Help Students achieve better in their academic lives by eliminating the single issue of finding a place to live
+8. Uncover the factors defining activism, identify emerging themes, and discern similarities across diverse forms of activism.
+9. Utilising Copernicus Sentinel Satellite Data to analyse the changing patterns of agriculture on Inis Oírr
+10. "An innovative software solution for automating the categorization and classification of sound based on musical theory and audio analysis principles"
+11. Prevention of radicalisation of young people in the digital age.
+12. The importance of interior wayfinding and how technology can enhance this crucial aspect of urban navigation
+13. How do the tropes of Gothic literature undergo adaptation to the medium of video games, and to what extent does this transformation impact the effectiveness of these literary elements?
+14. Emergence of the Cyber-Attack and Ransomware Era
+15. Improving the Mental Health of Third Level Students
+16. Improve social skills training for individuals with Autism Spectrum Disorder (ASD) process for individuals on the Autism spectrum
+17. Website accessibility from the perspective of individuals with Autism Spectrum Disorder (ASD)
+18. Digitally analysing the Societal impact of Vaping
+19. Comparing US Cold War Presidential Speeches to Modern Presidential Speeches using digital tools and analysis
+20. Enhancing Safety and Enjoyment of River Kayaking through Digital River Mapping
+21. Exploring the Revitalisation of Gaeilge in contemporary Ireland
+22. How game systems in Space Station 13 influence player made narratives
+23. How advanced performance monitoring devices contribute to analysing behavioural impacts and enhancing performance in GAA.
+24. Technology impact on religion
+25. UCC Map – Internal Wayfinding Augmented by Digital means
+26. To what extent did Irish newspapers from 1886 to 1920 reflect and shape public opinion regarding the development of the Irish Home Rule Movement?
+27. Creating a web based user interface for complex scientific networks
+28. An AR web application to preserve Cork City’s cultural heritage
+29. Exploring the barriers of citizen participation in humanitarian mapping
