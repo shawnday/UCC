@@ -1,0 +1,141 @@
+# Past MA Dissertation Titles
+
+
+## 2023-24
+1. Meaningful Human Interaction and Connection via Digital Means in an Evolving World of Communication Throughout the Pandemic and Beyond (OM)
+2. Social Media and eCommerce Accessibility for the Visually Impaired: A Dual Perspective Analysis from Users and Developers (OM)
+3. The Role of a Reader in Digital Poetry (JOS)
+4. Topic modelling 60s Music lyrics (PNF)
+5. Exploring Global Sense of Place through Digital Tools: A Case Study of Tianjin (SD)
+6. “So what is true anymore? - (possible?) dangers of generative AI image processing models and can they even be dealt with” (SR)
+7. Transforming Museum Visitor Experiences with Art-Based Interventions: A Focus on Bog Butter at the Butter Museum in Cork (OM)
+8. Ethical lssues in Studying AI painting (ZS)
+9. Breaking the Fourth Wall: Research and Applica#on of Newsgames Design Strategy from the Perspec#ve of Interac#ve Narra#ve (MC)
+10. Healing Through Visualization of Self-Quantified Data (SD)
+11. A Macroanalysis of the International Literary Influence of Chinese Tang Dynasty Poet, Li Bai (JOS)
+12. Traditional women’s dress of Solin: an exploration in migration history and digital reconstruction techniques (SR)
+13. Exploring Digital Presentation and Communication in Museums: A Case Study of Xi'an's Museums (OM)
+14. Historical and Cultural Heritage of Bell's Cafe and Field and Its Surroundings: An In-Depth Study (PNF)
+15. Museum experience from the perspective of digital humanities: a pre-recommendation system based on geographic location, interests and Artificial Intelligence (SD)
+16. Ethics and Aesthetics of Digital Literature (JOS)
+17. Empowering Inclusion: Exploring the Intersection of Communities of Practice and Universal Design for Learning in Fostering Equitable Learning Environments within FET (MC)
+18. What are the Issues faced by a Small GLAM when Digitising its Collection? (SD)
+19. From Myth to Megalith: Investigating the Cultural Significance and Visibility of Cúil Irra Complex Monuments Through 3D Modelling (PNF)
+
+## 2022-23
+1. Virtual Reality in Higher Education: How Interactive VR Affects Short-Term Memory Retention (MC)
+2. The Revolution Will (Not) Be Digitised: Tracing the history and effectiveness of electronic civil disobedience (ECD) in the greater context of Internet democracy (OM)
+3. THE ROLE OF THE STORYTELLER: THE CONNECTION BETWEEN STORYTELLING IN NATIVE AMERICAN CULTURES AND MULTIMEDIA (OM)
+4. The Reinterpretation of Classical Art in Digital Art (CB)
+5. Exploring the Effectiveness of Interactive Fiction as a Tool for Teaching English: A Study of Engagement and Language Acquisition (JOS)
+6. The Literary Techniques Employed by True Crime Podcasts (KOH)
+7. ‘How does the integration of mythology in video games through digital storytelling and game narrative mechanics contribute to the preservation and sharing of cultural heritage’ (JOS)
+8. DIGITAL INTERACTIVE MAP OF CORK (SD)
+9. Evaluating Adaptations: A Study of the Interpretation and Reception of Chinese Online Literary Works in Various Media Forms (KOH)
+10. Research on the Protection of Historical Monuments Based on 3D Visualisation and Online Browsing Technology - Taking Hakka Tulou as an Example (OM)
+11. Investigating the Impact of Digital Tools on Productivity and Well-being in a Flexible Work Arrangement (KOH)
+12. A new perspective on the safeguarding and transmission of folk tradition (SD)
+13. Can AR support colour vision deficiency? (SD)
+14. Enabling Resource-Scarce GLAMs to Engage with Digital Twins: Creating Virtual Tours and Artefacts Using Photogrammetry (PT)
+
+## 2021-23
+1.
+
+## 2019-20
+1. Better Together; How Participatory Archives Strengthen Through Collaboration (SD)
+2. Archiving Personal Collections: A Complete Guide for Complete Beginners (MM)
+3. Curating Digital Heritage Preserving Collected Material from the 1998 Tsunami in Papua New Guinea (SD)
+4. The Influences of Silent Hill 2 on Cry of Fear in the areas of monsters and level design (JOS)
+5. S t at e o f t h e A r (t ) c h i v e : A n i n v e s t i g a t i o n i n t o t h e c u r re n t
+s t a t e o f o n l i n e v i s u a l a r t s a rc h i v e s & c o l l e c t i o n s i n I re l a n d a n d t h e i r
+ro l e i n a r t i s t i c re s e a rc h a n d e n q u i r y (SD)
+6. A hypothesised AI tool for video game level design analysis (MC)
+7. Exploring the 3D printer as an artistic tool (JOS)
+
+## 2018-19
+1. How the EA FIFA Video Games series is helping fans of a new generation remember football legends (SD)
+2. Opportunities and Challenges of  Protecting Chinese Traditional Folk Literature  from the Perspective of New Media (SD)
+3. WHAT CAN FILM FESTIVAL EPHEMERA TELL US? A CASE STUDY (JOS)
+4. Enhancing Place-Based Learning; Integrating Local Cultural Heritage into the Primary School Curriculum using Digital Technologies (MC)
+5. Benefits and Future of Network Visualization and Virtual Research Environments in Art History Research (SD)
+6. The Influence of Places: Mapping Cork City’s Spatial Influence on Local Writers (JOS)
+7. Families, memory and the community archive: a conversation about the story and objects relating to Lissarda Ambush at Independence Museum, Kilmurry, 2019 (MC)
+8. An Ear to the Past: The use of sonic elicitation tools in ethnographic research and their ability to create a multi-sensual account of the past (SD)
+9. Visibility of Disability in post-digital society: comparative mass media analysis (JOS)
+10. Towards the production of a multifaceted UCC soundscape (MC)
+11. Analysis of the impact of digital platforms in the immersion, and retained knowledge of cultural education Case Study of Ogham Stones, UCC (OM)
+12. Past Lives, Hidden Treasures: bringing an extinct museum back to life through digitisation (OM)
+13. Our Queer Pantheon Creating a transformative LGBTQ educational resource (DA)
+14. “Fast fashion is Trending: Can Sustainable Fashion Also Become a Trend”? (JOS)
+15. The Architecture of George Goldie in Ireland (MC)
+16. Attitudes Towards the Impact of News Recommender Systems on Personal Identity (OM)
+17. Science vs fake news: understanding how social media users engage with science misinformation, and a proposal to help combat science fake news (OM)
+18. Ill-Conceived Notions of Digital Humans: An inquiry of speech habits in neopolitical YouTube (OM)
+
+## 2017-18
+
+1. Exploring the effects and evolution of fake news and misinformation on democracy, with reference to the 2016 U.S. Election (SD)
+2. Visualising the spatial expansion and development of Cork city over time (SD)
+3. Investigating the ways in which we can tailor e-earning tools to be effective to individuals, considering, the difference in learning preferences (MC)
+4. Digital Discourse Analysis and Representation of Media Bias in the Coverage of Mass Shootings in the United States (JOS)
+5. American Film Marketing on Twitter (JOS)
+6. Keep the Wilderness: An Autoethnographic Mapping: How landscape informs cultural orientations to knowledge production, the development of skills, trades, crafts, tools and technology towards strategies to sustain a living in Valentia(MC)
+7. Shakey Stories: An Exploration of the Soundscape of Daly’s Bridge, Cork (OM)
+8. Can new media and digital cultures afford a platform for re-imagining cultural representation or how can the digital disrupt cultures settle contours (JOS)
+9. How Role Play Contributes to the Creation of an Immersive Online Spiritual Experience (MC)
+10. Learning Old English Online: Designing and Creating a Digital Resource for Medieval Language Learning (OM)
+11. Blockchain : The Fourth Industrial Revolution (SD)
+12. The place of poetry in the Digital Age: Co. Meath, a case study (JOS)
+13. Historic Buildings and Ruins (MC)
+14. Citizen connectivity and Government Morality: Proving that States with Higher Levels of Internet Penetration Have Improved Governance (OM)
+15. Waterford Crystal- the aftermath from 2009 to 2018: A sociological perspective (OM)
+16. Examining Twitter to view art and cultural networks in place in Ireland (OM)
+17. Public forces influence on port area regeneration in Odessa (SD)
+18. The examination of a digital lieu de mémoire as a positive conduit for the concepts and expressions of memory
+A case study of a personal narrative (SD)
+19. Memory, Remembering, Collective Memory: Can we use computational analytical tools on various corpus to substantiate the processes of remembering and not remembering? A Case Study of the Bureau of Military History Collection 1913 – 1921 (SD)
+20. Digital Diplomacy  The Irish Ministry of Foreign Affairs Engagement with Social Media (SD)
+21. Analysing the impact and role of social media in communication with participants across GAA clubs in the County Cork (JOS)
+
+## 2016-17
+1. A Historical Study of the Socio-demographic Profile of Lunatic Asylum Patients, in the Early 1900s, in County Kerry, Ireland (SD)
+2. Digital Archive of the Cork Anti Water Movement (OM/SD)
+3. A Study of Purposeful Game in Creating a Digital Archive of Oracle Bone Scripts (OM/SD)
+4. Wisdom Hive’s Authentic Learning Process & Digital Archive of Creative Learning Resources (MC)
+5. Restructuring Digital Panopticism (OM)
+6. Cultural and Heritage Tourism Visitor Attractions and the use of Digital Data Technology (SD)
+7. Beyond the Template (OM)
+8. Script Design for an Artificially Intelligent Content Guide (MC)
+9. Watching Hummingbirds in the Night: How Slow Motion and Night Vision Have Changed the Ways We See (OM)
+10. The Interconnected Environment and the Disconnected Self: An Exploration of Human Disconnection from Nature and its Influence on the Parallel Degradations of the Natural Environment and Human Health (MC)
+
+## 2015-16
+1. Are Core Gamers More Critical Than Casual Gamers? (OM/SD)
+2. Mud, sweat and fears – negative campaigning and the battle on  Twitter for your #GE16 vote (SD)
+3. Crowdsourcing Motivations in a GLAM Context: A Research Survey of Transcriber Motivations of the Meitheal Dúchas.ie National Folklore Schools Collection Public Humanities Crowdsourcing Project (OM)
+
+## 2014-15
+1. An environment for learning and doing (SD)
+2. Exploring the Archives with Digital Technology (SD)
+3. Music Pedagogy and Technology - A transformative integration of technology into a student centered design (MC)
+4. The Modest Man Research Project: A case Study for the Application of Photogrammetry on Irish Cadaver Monuments (OM)
+5. I Think: Therefore I Cartoon (MC)
+6. Investigating the professional's role in GLAM Exhibitions (MC/SD)
+7. Developing Narrative Coherency Between Text and Graphical Visualization to Aid Reader Understanding of Contemporary Data-Driven Journalism (SD)
+8. Metadata, Searching and Retrieval on FanFiction.Net, LiveJournal and Archive of Our Own (OM/MC)
+9. Video Games: Gender, Gaming Culture, and Gamer Demographics (MC)
+10. Net Art and Animated GIFS (MC)
+11. Digital Narratives: A CAse Study of Setting Up the Irish Theatre Ballet Online Exhibition (MC/OM/SD)
+12. How to maximise Your Footprint as a Personal Brand (MC/SD)
+13. Social Media: A Platform for Human Rights in Africa (MC)
+14. Personal Library Catalogues and the Construction of Self (MC/SD)
+15. The US, ICJ and the UN: Data protection, Human Rights and compliance (MC)
+16. John O'Donovan Archive (OM/MC)
+17. Ethical and Social issues in Digital Artefacts (OM)
+18. Building Diversity and Inclusion into the Media Production Pipeline (MC/SD)
+19. Visual Narrative In 360 Film (MC/SD)
+20. An Exploratory Study: Digital tool impact on the tourism industry in Ireland (MC)
+21. THE BATTLE OF MEMORY: The last ongoing battle of World War One, fought in the theatre of the mind (MC/SD)
+
+## 2013-14
+1. The Flesichmann Archives (OM/MC)
