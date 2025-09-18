@@ -2,23 +2,23 @@
 Various topics have informed final-year projects in the Digital Humanities and Information Technology Programme (CK118) at University College Cork since the programme's inception.
 
 ## 2024-25
-1. How universities promote and have easily findable information about disability support programs
-2. How is AI influencing player performance analysis, coaching strategies and scouting practices in professional football?
-3. The Decline of Irish Pubs
-4. What’s in the Black Box?
-5. How has Digital Technology Impacted Pop Music?
-6. Social Network Analysis of the Irish Far Right on Twitter
-7. Seanfhocail an Lae
-8. Imperfectly Fresh
-9. Deepfakes
-10. Exploring Leadership Development Through Interactive Twine Simulations
-11. Can we accurately date a backdated painting from its physical descriptions using Data Analysis?
-12. How has the development of technology in Formula One improved driver safety and vehicle performance over time
-13. Interactive Storytelling in Education: A Digital Journey Through Alice in Wonderland
-14. How to install a firewall in an industrial network in a live pharmaceutical environment
+1. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/How%20Universities%20Promote%20and%20Have%20Easily%20Findable%20Information%20on%20Their%20Disability%20Support%20Pages.pdf">How universities promote and have easily findable information about disability support programs</a>
+2. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/How%20is%20Artificial%20Intelligence%20influencing%20refereeing%20and%20scouting%20practices%20in%20professional%20football%3F.pdf">How is AI influencing player performance analysis, coaching strategies and scouting practices in professional football?</a>
+3. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/The%20Last%20Call%3A%20The%20Decline%20of%20Irish%20Pubs.pdf">The Decline of Irish Pubs</a>
+4. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/What%E2%80%99s%20in%20the%20Black%20Box%3F.pdf">What’s in the Black Box?</a>
+5. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/How%20has%20digital%20technology%20impacted%20pop%20music%3F.pdf">How has Digital Technology Impacted Pop Music?</a>
+6. <a href="">Social Network Analysis of the Irish Far Right on Twitter</a>
+7. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/Seanfhocail%20an%20Lae.pdf">Seanfhocail an Lae</a>
+8. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/Imperfectly%20Fresh.pdf">Imperfectly Fresh</a>
+9. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/Peoples%20Perception%20of%20Deepfakes.pdf">Deepfakes</a>
+10. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/Exploring%20Leadership%20Development%20Through%20Interactive%20Twine%20Simulations.pdf">Exploring Leadership Development Through Interactive Twine Simulations</a>
+11. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/Can%20we%20date%20backdated%20paintings%20using%20Data%20Analysis%3F.pdf">Can we accurately date a backdated painting from its physical descriptions using Data Analysis?</a>
+12. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/How%20has%20the%20development%20of%20technology%20in%20Formula%20One%20improved%20driver%20safety%20and%20vehicle%20performance%20over%20time.pdf">How has the development of technology in Formula One improved driver safety and vehicle performance over time</a>
+13. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/Interactive%20Storytelling%20in%20Education%3A%20A%20Digital%20Journey%20Through%20Alice%20in%20Wonderland.pdf">Interactive Storytelling in Education: A Digital Journey Through Alice in Wonderland</a>
+14. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/deploying%20a%20layer%202%20firewallSmall.pdf">How to install a firewall in an industrial network in a live pharmaceutical environment</a>
 15. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/%20Topic%20Modelling%3A%20A%20Corpus%20of%20Female%20Politicians%20(1990-2020).pdf">Topic Modelling: A corpus of female Politicians (1990-2020)</a>
-16. How can crowdsourcing participation be used to map safer pedestrian routes in Cork City?
-17. How have fashion magazines from the 19th century to the 21st century influenced the evolution of fashion trends? What role have they played in popularising certain trends?
+16. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/How%20can%20crowdsourcing%20participation%20be%20used%20to%20map%20safer%20pedestrian%20routes%20in%20Cork%20City%3F.pdf">How can crowdsourcing participation be used to map safer pedestrian routes in Cork City?</a>
+17. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/The%20Evolution%20of%20Fahion%20Magazines%3A%20How%20Harper%E2%80%99s%20Bazaar%2C%20Godey%E2%80%99s%20Lady%E2%80%99s%20Book%2C%20Vogue%2C%20and%20Elle%20have%20shaped%20trends%20from%20the%2019th%20to%2021st%20Century%20in%20the%20Digital%20Age.pdf">How have fashion magazines from the 19th century to the 21st century influenced the evolution of fashion trends? What role have they played in popularising certain trends?</a>
 
 ## 2023-24
 1. A Digital Platform promoting online safety and data privacy for users of all ages
