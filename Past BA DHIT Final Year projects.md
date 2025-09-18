@@ -16,7 +16,7 @@ Various topics have informed final-year projects in the Digital Humanities and I
 12. How has the development of technology in Formula One improved driver safety and vehicle performance over time
 13. Interactive Storytelling in Education: A Digital Journey Through Alice in Wonderland
 14. How to install a firewall in an industrial network in a live pharmaceutical environment
-15. Topic Modelling: A corpus of female Politicians (1990-2020
+15. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/%20Topic%20Modelling%3A%20A%20Corpus%20of%20Female%20Politicians%20(1990-2020).pdf">Topic Modelling: A corpus of female Politicians (1990-2020)</a>
 16. How can crowdsourcing participation be used to map safer pedestrian routes in Cork City?
 17. How have fashion magazines from the 19th century to the 21st century influenced the evolution of fashion trends? What role have they played in popularising certain trends?
 
