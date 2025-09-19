@@ -21,35 +21,36 @@ Various topics have informed final-year projects in the Digital Humanities and I
 17. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/The%20Evolution%20of%20Fahion%20Magazines%3A%20How%20Harper%E2%80%99s%20Bazaar%2C%20Godey%E2%80%99s%20Lady%E2%80%99s%20Book%2C%20Vogue%2C%20and%20Elle%20have%20shaped%20trends%20from%20the%2019th%20to%2021st%20Century%20in%20the%20Digital%20Age.pdf">How have fashion magazines from the 19th century to the 21st century influenced the evolution of fashion trends? What role have they played in popularising certain trends?</a>
 
 ## 2023-24
-1. A Digital Platform promoting online safety and data privacy for users of all ages
-2. Analogue Accessibility in a Digital Society
-3. How can technology be used to collate and disseminate local knowledge to enhance tourism in Kinsale
-4. How crowdsourcing can map out cleaner routes for dog owners
+1. Augmented Reality Social Storybook
+2. Automating Music Classification
+3. Creating Humanistic interfaces for complex scientific networks
+4. Digital Extortion: The Rise of the Ransomware Era
 5. Donoughmore: Tracing Our Past, Shaping Our Future
-6. How can AI and thermal imagery be used in the management & prevention of Hospital-Acquired Pressure Injuries?
-7. Help Students achieve better in their academic lives by eliminating the single issue of finding a place to live
-8. Uncover the factors defining activism, identify emerging themes, and discern similarities across diverse forms of activism.
-9. Utilising Copernicus Sentinel Satellite Data to analyse the changing patterns of agriculture on Inis Oírr
-10. "An innovative software solution for automating the categorisation and classification of sound based on musical theory and audio analysis principles"
-11. Prevention of radicalisation of young people in the digital age.
-12. The importance of interior wayfinding and how technology can enhance this crucial aspect of urban navigation
-13. How do the tropes of Gothic literature undergo adaptation to the medium of video games, and to what extent does this transformation impact the effectiveness of these literary elements?
-14. Emergence of the Cyber-Attack and Ransomware Era
-15. Improving the Mental Health of Third-Level Students
-16. Improve social skills training for individuals with Autism Spectrum Disorder (ASD), process for individuals on the Autism spectrum
-17. Website accessibility from the perspective of individuals with Autism Spectrum Disorder (ASD)
-18. Digitally analysing the Societal impact of Vaping
+6. Digitally analysing the societal impact of vaping
+7. Empowering Student Housing Searches in Cork, Ireland
+8. Exploring How Technology Impacts the Safety and Enjoyment of Recreational River Kayaking
+9. Exploring the Barriers to Citizen Participation in Humanitarian Mapping
+10. Exploring the Revitalisation of Gaeilge in Contemporary Ireland
+11. HOW DO GAME SYSTEMS IN SPACE STATION 13 INFLUENCE PLAYER-LED NARRATIVES AND CHOICES
+12. How Crowdsourcing Can Map Out Cleaner Routes for Dog Walkers
+13. How Do the Tropes of Gothic Literature Undergo Adaptation to the Medium of Video Games?
+14. How advanced performance monitoring devices contribute to analysing behavioural impacts and enhancing performance in GAA
+15. How can AI and Thermal Imagery be used in the management & prevention of Hospital-Acquired Pressure Injuries
+16. How can technology be used to collate and disseminate local knowledge to enhance tourism in Kinsale?
+17. INVESTIGATING THE MENTAL HEALTH OF THIRD LEVEL STUDENTS IN IRELAND AND HOW TO IMPROVE IT
+18. Internal Wayfinding Augmented by Digital Means
 19. Comparing US Cold War Presidential Speeches to Modern Presidential Speeches using digital tools and analysis
-20. Enhancing Safety and Enjoyment of River Kayaking through Digital River Mapping
-21. Exploring the Revitalisation of Gaeilge in Contemporary Ireland
-22. How game systems in Space Station 13 influence player-made narratives
-23. How advanced performance monitoring devices contribute to analysing behavioural impacts and enhancing performance in GAA.
-24. Technology's impact on religion
-25. UCC Map – Internal Wayfinding Augmented by Digital Means
-26. To what extent did Irish newspapers from 1886 to 1920 reflect and shape public opinion regarding the development of the Irish Home Rule Movement?
-27. Creating a web-based user interface for complex scientific networks
-28. An AR web application to preserve Cork City’s cultural heritage
-29. Exploring the barriers of citizen participation in humanitarian mapping
+20. Preserving Cork City’s cultural heritage with Augmented reality
+21. Preventing the radicalisation of young people in digital media
+22. Smart Phone Dependency
+23. Technology's Impact on Religion
+24. The Importance of Interior Wayfinding and how Technology can Enhance this Crucial Aspect of Urban Navigation
+25. Uncover the factors defining activism, identify emerging them
+26. Utilising Copernicus Sentinel Satellite Data to analyse the unique
+27. Website Accessibility From the Perspective of Individuals With Autism Spectrum Disorder
+28. What are the key challenges faced by users of different age groups?
+29. What was the portrayal of the Irish Home Rule movement in Irish newspapers from 1886 to 1920
+    
 ## 2022-23
 1. Examining User Online Data Privacy
 2. Data in Cities
