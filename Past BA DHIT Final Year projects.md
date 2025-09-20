@@ -2,7 +2,7 @@
 Various topics have informed final-year projects in the Digital Humanities and Information Technology Programme (CK118) at University College Cork since the programme's inception.
 
 ## 2024-25
-1. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/How%20Universities%20Promote%20and%20Have%20Easily%20Findable%20Information%20on%20Their%20Disability%20Support%20Pages.pdf">How universities promote and have easily findable information about disability support programs</a>
+1. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/How%20Universities%20Promote%20and%20Have%20Easily%20Findable%20Information%20on%20Their%20Disability%20Support%20Pages.pdf"> How universities promote and have easily findable information about disability support programs </a>
 2. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/How%20is%20Artificial%20Intelligence%20influencing%20refereeing%20and%20scouting%20practices%20in%20professional%20football%3F.pdf">How is AI influencing player performance analysis, coaching strategies and scouting practices in professional football?</a>
 3. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/The%20Last%20Call%3A%20The%20Decline%20of%20Irish%20Pubs.pdf">The Decline of Irish Pubs</a>
 4. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/What%E2%80%99s%20in%20the%20Black%20Box%3F.pdf">What’s in the Black Box?</a>
@@ -21,10 +21,10 @@ Various topics have informed final-year projects in the Digital Humanities and I
 17. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/The%20Evolution%20of%20Fahion%20Magazines%3A%20How%20Harper%E2%80%99s%20Bazaar%2C%20Godey%E2%80%99s%20Lady%E2%80%99s%20Book%2C%20Vogue%2C%20and%20Elle%20have%20shaped%20trends%20from%20the%2019th%20to%2021st%20Century%20in%20the%20Digital%20Age.pdf">How have fashion magazines from the 19th century to the 21st century influenced the evolution of fashion trends? What role have they played in popularising certain trends?</a>
 
 ## 2023-24
-1. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Augmented%20Reality%20Social%20Storybook.pdf">Augmented Reality Social Storybook</a>
-2. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Automating%20Music%20Classification.pdf">Automating Music Classification</a>
-3. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Creating%20Humanistic%20interfaces%20for%20complex%20scientific%20networks.pdf">Creating Humanistic interfaces for complex scientific networks</a>
-4. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Digital%20Extortion%3A%20The%20Rise%20of%20the%20Ransomware%20Era.pdf">Digital Extortion: The Rise of the Ransomware Era</a>
+1. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Augmented%20Reality%20Social%20Storybook.pdf">Augmented Reality Social Storybook </a>
+2. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Automating%20Music%20Classification.pdf">Automating Music Classification </a>
+3. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Creating%20Humanistic%20interfaces%20for%20complex%20scientific%20networks.pdf">Creating Humanistic interfaces for complex scientific networks </a>
+4. <<a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Digital%20Extortion%3A%20The%20Rise%20of%20the%20Ransomware%20Era.pdf">Digital Extortion: The Rise of the Ransomware Era </a>
 5. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/DONOUGHMORE-TRACING%20OUR%20PAST%2C%20SHAPING%20OUR%20FUTURE.pdf">Donoughmore: Tracing Our Past, Shaping Our Future</a>
 6. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Digitally%20analysing%20the%20societal%20impact%20of%20vaping.pdf">Digitally analysing the societal impact of vaping</a>
 7. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Empowering%20Student%20Housing%20Searches%20in%20Cork%20Ireland.pdf">Empowering Student Housing Searches in Cork, Ireland</a>
