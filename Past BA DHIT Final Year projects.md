@@ -21,17 +21,17 @@ Various topics have informed final-year projects in the Digital Humanities and I
 17. <a href="https://github.com/shawnday/UCC/blob/master/BADHITFYP/The%20Evolution%20of%20Fahion%20Magazines%3A%20How%20Harper%E2%80%99s%20Bazaar%2C%20Godey%E2%80%99s%20Lady%E2%80%99s%20Book%2C%20Vogue%2C%20and%20Elle%20have%20shaped%20trends%20from%20the%2019th%20to%2021st%20Century%20in%20the%20Digital%20Age.pdf">How have fashion magazines from the 19th century to the 21st century influenced the evolution of fashion trends? What role have they played in popularising certain trends?</a>
 
 ## 2023-24
-1. <a hef="">Augmented Reality Social Storybook</a>
-2. <a hef="">Automating Music Classification</a>
-3. <a hef="">Creating Humanistic interfaces for complex scientific networks</a>
-4. <a hef="">Digital Extortion: The Rise of the Ransomware Era</a>
-5. <a hef="">Donoughmore: Tracing Our Past, Shaping Our Future</a>
-6. <a hef="">Digitally analysing the societal impact of vaping</a>
-7. <a hef="">Empowering Student Housing Searches in Cork, Ireland</a>
-8. <a hef="">Exploring How Technology Impacts the Safety and Enjoyment of Recreational River Kayaking</a>
-9. <a hef="">Exploring the Barriers to Citizen Participation in Humanitarian Mapping</a>
-10. <a hef="">Exploring the Revitalisation of Gaeilge in Contemporary Ireland</a>
-11. <a hef="">HOW DO GAME SYSTEMS IN SPACE STATION 13 INFLUENCE PLAYER-LED NARRATIVES AND CHOICES</a>
+1. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Augmented%20Reality%20Social%20Storybook.pdf">Augmented Reality Social Storybook</a>
+2. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Automating%20Music%20Classification.pdf">Automating Music Classification</a>
+3. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Creating%20Humanistic%20interfaces%20for%20complex%20scientific%20networks.pdf">Creating Humanistic interfaces for complex scientific networks</a>
+4. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Digital%20Extortion%3A%20The%20Rise%20of%20the%20Ransomware%20Era.pdf">Digital Extortion: The Rise of the Ransomware Era</a>
+5. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/DONOUGHMORE-TRACING%20OUR%20PAST%2C%20SHAPING%20OUR%20FUTURE.pdf">Donoughmore: Tracing Our Past, Shaping Our Future</a>
+6. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Digitally%20analysing%20the%20societal%20impact%20of%20vaping.pdf">Digitally analysing the societal impact of vaping</a>
+7. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Empowering%20Student%20Housing%20Searches%20in%20Cork%20Ireland.pdf">Empowering Student Housing Searches in Cork, Ireland</a>
+8. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Exploring%20How%20Technology%20Impacts%20the%20Safety%20and%20Enjoyment%20of%20Recreational%20River%20Kayaking.pdf">Exploring How Technology Impacts the Safety and Enjoyment of Recreational River Kayaking</a>
+9. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Exploring%20the%20Barriers%20to%20Citizen%20Participation%20in%20Humanitarian%20Mapping.pdf">Exploring the Barriers to Citizen Participation in Humanitarian Mapping</a>
+10. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/Exploring%20the%20Revitalisation%20of%20Gaeilge%20in%20Contemporary%20Ireland.pdf">Exploring the Revitalisation of Gaeilge in Contemporary Ireland</a>
+11. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/HOW%20DO%20GAME%20SYSTEMS%20IN%20SPACE%20STATION%2013%20INFLUENCE%20PLAYER%20Led%20Narratives%20and%20Choices.pdf">HOW DO GAME SYSTEMS IN SPACE STATION 13 INFLUENCE PLAYER-LED NARRATIVES AND CHOICES</a>
 12. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/How%20Crowdsourcing%20Can%20Map%20Out%20Cleaner%20Routes%20for%20Dog%20Walkers.pdf">How Crowdsourcing Can Map Out Cleaner Routes for Dog Walkers</a>
 13. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/How%20Do%20the%20Tropes%20of%20Gothic%20Literature%20Undergo%20Adaptation%20to%20the%20Medium%20of%20Video%20GamesSmall.pdf">How Do the Tropes of Gothic Literature Undergo Adaptation to the Medium of Video Games?</a>
 14. <a hef="https://github.com/shawnday/UCC/blob/master/BADHITFYP/202324FYP/How%20advanced%20performance%20monitoring%20devices%20contribute%20to%20analysing%20behavioural%20impacts%20and%20enhancing%20performance%20in%20GAA.pdf">How advanced performance monitoring devices contribute to analysing behavioural impacts and enhancing performance in GAA</a>
